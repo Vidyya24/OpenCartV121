@@ -1,0 +1,17 @@
+22:29:04.158 [main] INFO  testCases.TC001_AccountResigtrationTest - Validation Details
+22:29:11.844 [main] INFO  testCases.TC002_MyLoginTest - **********Stsrting TC_002_Login Test
+22:29:14.576 [main] INFO  testCases.TC002_MyLoginTest - **********Finished TC_002_Login Test
+22:30:42.013 [main] INFO  testCases.TC001_AccountResigtrationTest - Test Cases Started
+22:30:42.708 [main] INFO  testCases.TC001_AccountResigtrationTest - Click on Account
+22:30:43.831 [main] INFO  testCases.TC001_AccountResigtrationTest - Click On Register
+22:30:43.832 [main] INFO  testCases.TC001_AccountResigtrationTest - Customer Details
+22:30:45.226 [main] INFO  testCases.TC001_AccountResigtrationTest - Validation Details
+22:30:54.221 [main] INFO  testCases.TC002_MyLoginTest - **********Stsrting TC_002_Login Test
+22:30:58.012 [main] INFO  testCases.TC002_MyLoginTest - **********Finished TC_002_Login Test
+22:41:31.192 [main] INFO  testCases.TC001_AccountResigtrationTest - Test Cases Started
+22:41:31.541 [main] INFO  testCases.TC001_AccountResigtrationTest - Click on Account
+22:41:32.633 [main] INFO  testCases.TC001_AccountResigtrationTest - Click On Register
+22:41:32.635 [main] INFO  testCases.TC001_AccountResigtrationTest - Customer Details
+22:41:34.098 [main] INFO  testCases.TC001_AccountResigtrationTest - Validation Details
+22:41:44.047 [main] INFO  testCases.TC002_MyLoginTest - **********Stsrting TC_002_Login Test
+22:41:47.955 [main] INFO  testCases.TC002_MyLoginTest - **********Finished TC_002_Login Test

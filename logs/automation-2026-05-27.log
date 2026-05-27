@@ -1,0 +1,69 @@
+12:54:28.378 [main] INFO  testCases.TC003_VerifyLogin - *********************Starting TC003_VerifyLogin
+12:54:40.674 [main] INFO  testCases.TC003_VerifyLogin - *********************Finised TC003_VerifyLogin
+12:54:40.684 [main] INFO  testCases.TC003_VerifyLogin - *********************Starting TC003_VerifyLogin
+12:54:51.882 [main] INFO  testCases.TC003_VerifyLogin - *********************Finised TC003_VerifyLogin
+12:54:51.889 [main] INFO  testCases.TC003_VerifyLogin - *********************Starting TC003_VerifyLogin
+12:54:54.524 [main] INFO  testCases.TC003_VerifyLogin - *********************Finised TC003_VerifyLogin
+14:45:07.664 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VIDYA\eclipse-workspace\OpenCartV121\testng.xml
+
+14:45:47.467 [main] INFO  testCases.TC001_AccountResigtrationTest - Test Cases Started
+14:45:47.904 [main] INFO  testCases.TC001_AccountResigtrationTest - Click on Account
+14:45:49.016 [main] INFO  testCases.TC001_AccountResigtrationTest - Click On Register
+14:45:49.016 [main] INFO  testCases.TC001_AccountResigtrationTest - Customer Details
+14:45:50.198 [main] INFO  testCases.TC001_AccountResigtrationTest - Validation Details
+14:46:13.262 [main] INFO  testCases.TC002_MyLoginTest - **********Stsrting TC_002_Login Test
+14:46:16.193 [main] INFO  testCases.TC002_MyLoginTest - **********Finished TC_002_Login Test
+15:21:34.490 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VIDYA\eclipse-workspace\OpenCartV121\testng.xml
+
+15:21:44.856 [main] INFO  testCases.TC001_AccountResigtrationTest - Test Cases Started
+15:21:45.240 [main] INFO  testCases.TC001_AccountResigtrationTest - Click on Account
+15:21:46.267 [main] INFO  testCases.TC001_AccountResigtrationTest - Click On Register
+15:21:46.268 [main] INFO  testCases.TC001_AccountResigtrationTest - Customer Details
+15:21:47.433 [main] INFO  testCases.TC001_AccountResigtrationTest - Validation Details
+15:21:55.273 [main] INFO  testCases.TC002_MyLoginTest - **********Stsrting TC_002_Login Test
+15:23:18.680 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VIDYA\eclipse-workspace\OpenCartV121\test-output\testng-failed.xml
+
+15:23:25.122 [main] INFO  testCases.TC002_MyLoginTest - **********Stsrting TC_002_Login Test
+15:23:28.258 [main] INFO  testCases.TC002_MyLoginTest - **********Finished TC_002_Login Test
+18:54:20.238 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VIDYA\eclipse-workspace\OpenCartV121\master.xml
+
+18:54:48.746 [main] INFO  testCases.TC001_AccountResigtrationTest - Test Cases Started
+18:54:49.258 [main] INFO  testCases.TC001_AccountResigtrationTest - Click on Account
+18:54:50.220 [main] INFO  testCases.TC001_AccountResigtrationTest - Click On Register
+18:54:50.221 [main] INFO  testCases.TC001_AccountResigtrationTest - Customer Details
+18:54:52.428 [main] INFO  testCases.TC001_AccountResigtrationTest - Validation Details
+18:55:11.907 [main] INFO  testCases.TC003_VerifyLogin - *********************Starting TC003_VerifyLogin
+18:55:15.569 [main] INFO  testCases.TC003_VerifyLogin - *********************Finised TC003_VerifyLogin
+18:55:15.588 [main] INFO  testCases.TC003_VerifyLogin - *********************Starting TC003_VerifyLogin
+18:55:18.721 [main] INFO  testCases.TC003_VerifyLogin - *********************Starting TC003_VerifyLogin
+18:55:30.637 [main] INFO  testCases.TC003_VerifyLogin - *********************Finised TC003_VerifyLogin
+18:55:30.673 [main] INFO  testCases.TC003_VerifyLogin - *********************Starting TC003_VerifyLogin
+18:55:42.995 [main] INFO  testCases.TC003_VerifyLogin - *********************Finised TC003_VerifyLogin
+18:55:43.008 [main] INFO  testCases.TC003_VerifyLogin - *********************Starting TC003_VerifyLogin
+18:55:45.695 [main] INFO  testCases.TC003_VerifyLogin - *********************Finised TC003_VerifyLogin
+18:59:46.982 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VIDYA\eclipse-workspace\OpenCartV121\master.xml
+
+19:01:17.574 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VIDYA\eclipse-workspace\OpenCartV121\master.xml
+
+19:12:24.254 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VIDYA\eclipse-workspace\OpenCartV121\master.xml
+
+19:22:20.781 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VIDYA\eclipse-workspace\OpenCartV121\master.xml
+
+22:28:13.386 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VIDYA\eclipse-workspace\OpenCartV121\master.xml
+
+22:28:42.261 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VIDYA\eclipse-workspace\OpenCartV121\master.xml
+
+22:29:00.611 [main] INFO  testCases.TC001_AccountResigtrationTest - Test Cases Started
+22:29:01.434 [main] INFO  testCases.TC001_AccountResigtrationTest - Click on Account
+22:29:02.419 [main] INFO  testCases.TC001_AccountResigtrationTest - Click On Register
+22:29:02.419 [main] INFO  testCases.TC001_AccountResigtrationTest - Customer Details
